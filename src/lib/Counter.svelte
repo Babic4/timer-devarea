@@ -189,10 +189,7 @@
     font-size: 3.5rem;
     font-weight: 800;
     margin: 0 0 1rem 0;
-    background: linear-gradient(45deg, #ffffff, #f8f9ff);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
+    color: #ffffff;
     letter-spacing: -2px;
     text-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
