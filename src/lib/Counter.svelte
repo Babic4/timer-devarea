@@ -2,7 +2,7 @@
   import { onMount, onDestroy } from 'svelte';
   
   // Целевая дата: 30.08.2025
-  const targetDate = new Date('2025-08-30T00:00:00');
+  const targetDate = new Date('2025-08-30T13:00:00');
   
   let timeLeft = $state({
     days: 0,
